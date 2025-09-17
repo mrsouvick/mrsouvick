@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 - 🎓 3rd Year **ECE Student** @ Budge Budge Institute of Technology  
-- 🤖 Team Lead @ **Gujarat Robofest 5.0** (Autonomous Maze Solver Robot)  
+- 🤖 Team Lead for @ **Gujarat Robofest 5.0** (Autonomous Maze Solver Robot)  
 - 🌐 Founder of [**Vickify**](https://vickify.netlify.app) & **SyllabusGPT** (AI-powered EdTech platform)  
 - 💡 Building projects in **IoT, Robotics, Full Stack Web, and AI**  
 - 🎥 Sharing knowledge & projects on my YouTube channel **Vickify**  
@@ -34,11 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Souvick-Kumar-Halder&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souvick-Kumar-Halder&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 ---
 
@@ -46,15 +41,15 @@
 - 🚀 [**SyllabusGPT**](https://github.com/yourusername/SyllabusGPT) – AI-powered personalized study assistant  
 - 🌐 [**Vickify**](https://vickify.netlify.app) – Student community & learning platform  
 - 📡 **Smart Climate Monitor** – IoT project using ESP32 + DHT11 + Firebase + Modern UI  
-- 🤖 **Autonomous Maze Solver Robot** – 6-wheel rover for **Gujarat Robofest 5.0**  
+- 🤖 **Autonomous Maze Solver Robot** – maze solver robot **Gujarat Robofest 5.0**  
 
 ---
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/souvick-halder"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://github.com/Souvick-Kumar-Halder"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="https://youtube.com/@Vickify"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
+  <a href="https://www.linkedin.com/in/souvick-kumar-halder-752508292/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://github.com/Smrsouvick"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://youtube.com/@Vvickify-b6l"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
 </p>
 
 ---
